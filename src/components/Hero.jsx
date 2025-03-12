@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Regist() {
+function Hero() {
     return (
         <div>
 
@@ -8,4 +8,4 @@ function Regist() {
     )
 }
 
-export default Regist
+export default Hero

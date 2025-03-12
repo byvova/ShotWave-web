@@ -12,7 +12,7 @@ function Header() {
                         <Link href='/house'>Home</Link>
                         <Link href='/recomend'>Recomend</Link>
                     </nav>
-                    <div className='flex pl-100 gap-7'>
+                    <div className='flex pl-100 gap-10'>
                         <Link href='/regist'>Regist</Link>
                         <Link href='/login'>Login</Link>
                         <Link href='/profile'>Profile</Link>
